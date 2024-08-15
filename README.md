@@ -1,7 +1,7 @@
-# first_app
+# Flutter first task
 
-First flutter task
- # create this screen 
+ ## create this screen 
+ 
   ![Screenshot_20240814_233629](https://github.com/user-attachments/assets/113ccc83-79ac-4c08-83fd-89bc4969c245)
 
 
