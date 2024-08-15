@@ -1,16 +1,11 @@
 # first_app
 
-A new Flutter project.
+First flutter task
+  create this screen 
+  ![Screenshot_20240814_233629](https://github.com/user-attachments/assets/113ccc83-79ac-4c08-83fd-89bc4969c245)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Result
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (198)](https://github.com/user-attachments/assets/b0a4a92b-966b-4a16-86eb-7e6013919157)
